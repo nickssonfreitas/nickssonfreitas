@@ -13,7 +13,7 @@
 - 🧠 Em aprendizado e aprimoramento constante de minhas habilidades
 - 🐧 Usuário Linux
 
-<br/>
+
 <br/>
 
 ### Linguagens e Ferramentas:
