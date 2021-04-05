@@ -6,7 +6,7 @@
 </br>
 
 ##  Tenho interesse em ajudar as pessoas a se tornarem Cientista de dados e quero desenvolver mais projetos que impactam negócios e a sociedade.
-- 👨‍🏫Eu sou Professor na Unichristus em Fortaleza
+- 👨‍🏫 Eu sou Professor na Unichristus em Fortaleza
 - 👨‍💻 Eu sou fundador do [Synapse Data Science](https://linktr.ee/synapseds)
 - 👨‍💼 Eu sou instrutor de Data Science no [Minerando Dados](https://youtu.be/dnsdPrhWWec)  
 - 📊 Eu colaboro com alguns projetos no Laboratório de Pesquisa [Insight Lab](https://insightlab.ufc.br/) 
@@ -20,8 +20,6 @@
 <img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 [<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
-
-<img align="left" alt="Azure" width="26px" src="https://www.parkmycloud.com/wp-content/uploads/2018/02/Azure_.png" />
 
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
 
@@ -57,6 +55,6 @@
 
 <img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmcabreira&show_icons=true&hide_border=true" />
 
-[medium]: https://medium.com/@cabreirajm
-[linkedin]: linkedin.com/in/cabreirajm
-[instagram]: https://instagram.com/jhon_cabreira
+[linkedin]: linkedin.com/in/nickssonarrais
+[instagram]: https://instagram.com/nickssonarrais
+
