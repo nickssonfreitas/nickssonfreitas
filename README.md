@@ -5,17 +5,16 @@
 [<img align="left" alt="Nicksson_Arrais | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/nickssonarrais/) [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/nickssonarrais/)
 </br>
 
-##  Tenho interesse em desenvolver projetos que impactam o mundo dos negócios e a sociedade. Gosto muito de formar novos Cientista de Dados 
-- 👨‍🏫 Eu sou Professor na [Unichristus](https://unichristus.edu.br/) em Fortaleza
-- 👨‍💻 Eu sou fundador do [Synapse Data Science](https://linktr.ee/synapseds)
-- 👨‍💼 Eu sou instrutor de Data Science no [Minerando Dados](https://youtu.be/dnsdPrhWWec)  
-- 📊 Eu colaboro com alguns projetos no Laboratório de Pesquisa [Insight Lab](https://insightlab.ufc.br/) 
-- 🧠 Em aprendizado e aprimoramento constante de minhas habilidades
-- 🐧 Usuário Linux
-
+###  Tenho interesse em desenvolver projetos que impactam o mundo dos negócios e a sociedade.
+- 👨‍🏫 Sou Professor na [Unichristus](https://unichristus.edu.br/) em Fortaleza
+- 👨‍💻 Sou fundador do canal de Data Science [Synapse Data Science](https://linktr.ee/synapseds)
+- 👨‍💼 Sou instrutor de Data Science no [Minerando Dados](https://youtu.be/dnsdPrhWWec)  
+- 📊 Colaboro com projetos de pesquisas no Laboratório de Pesquisa [Insight Lab](https://insightlab.ufc.br/) 
+- 🐧 Sou usuário Linux
+- 🧠 Venho apreendendo e aprimorando constantemente minhas habilidades
 <br/>
 
-## Linguagens e Ferramentas:
+### Linguagens e Ferramentas:
 
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
@@ -65,7 +64,7 @@ src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
 <br/>
 <br/>
 
-## Artigos Científicos 📝:
+### Artigos Científicos 📝:
 - [Crime Monitor: Monitoring Criminals from Trajectory Data](https://www.scitepress.org.pdf) 
 - [Using Deep Learning for trajectory Classification in imbalanced dataset](https://www.scitepress.org.pdf) 
 - [Using Deep Learning for trajectory Classification](https://www.scitepress.org/Papers/2021/102279/102279.pdf) 
