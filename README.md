@@ -28,7 +28,7 @@
 <img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pytorch.svg" />
 
 
-<img align="left" alt="Dask" width="26px" src="https://dask.org/_images/dask_horizontal_white_no_pad.svg" />
+<img align="left" alt="Dask" width="26px" src="https://docs.dask.org/en/latest/_images/dask_icon.svg" />
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
