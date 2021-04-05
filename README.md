@@ -66,8 +66,19 @@ src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
 <br/>
 
 ## Artigos Científicos 📝:
+- [Crime Monitor: Monitoring Criminals from Trajectory Data](https://www.scitepress.org.pdf) 
+- [Using Deep Learning for trajectory Classification in imbalanced dataset ](https://www.scitepress.org.pdf) 
 - [Using Deep Learning for trajectory Classification](https://www.scitepress.org/Papers/2021/102279/102279.pdf) 
-- 
+- [Livro: Abordagem de Mineração de Dados para Previsão da Velocidade do Vento](https://amzn.to/3dEjJB6)
+- [Wind Speed Forecating: A Review](ind Speed Forecasting: A Review)
+- [Multiagent System for Image Mining](https://www.intechopen.com/books/multi-agent-systems/multiagent-system-for-image-mining)
+- [AgentGeo: Multi-Agent System of Satellite Images Mining](https://ieeexplore.ieee.org/document/7459619)
+- [Uma análise comparativa de dados de mapas de NDVI gerados através de imagens de METEOSAT-10 e LANDSAT-8](https://proceedings.science/sbsr/papers/uma-analise-comparativa-de-dados-de-mapas-de-ndvi-gerados-atraves-de-imagens-de-meteosat-10-e-landsat-8)
+- [Livro: Abordagem Multiagente para mineração de imagens de satélite(https://www.researchgate.net/publication/321225457_Abordagem_multiagente_para_mineracao_de_imagens_de_satelite)
+- [Sistemas Multiagente para Mineração de Imagens de Satélite](http://marte2.sid.inpe.br/col/sid.inpe.br/marte2/2015/06.15.16.55.24/doc/p1649.pdf)
+- [Agentes de Mineração de Imagens de Satélite](http://www.geoinfo.info/proceedings_geoinfo2014.split/Paper09-S-p14.pdf)
+
+
 <br/>
 <br/>
 
