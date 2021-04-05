@@ -5,7 +5,7 @@
 [<img align="left" alt="Nicksson_Arrais | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/nickssonarrais/) [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/nickssonarrais/)
 </br>
 
-##  Quero desenvolver mais projetos que impactam o mundo dos negócios e a sociedade. Tenho também interesse em formar Cientista de Dados 
+##  Tenho interesse em desenvolver projetos que impactam o mundo dos negócios e a sociedade. Gosto muito de formar novos Cientista de Dados 
 - 👨‍🏫 Eu sou Professor na [Unichristus](https://unichristus.edu.br/) em Fortaleza
 - 👨‍💻 Eu sou fundador do [Synapse Data Science](https://linktr.ee/synapseds)
 - 👨‍💼 Eu sou instrutor de Data Science no [Minerando Dados](https://youtu.be/dnsdPrhWWec)  
