@@ -44,6 +44,10 @@ src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
 
 <img align="left" alt="Folium" width="26px" src="https://python-visualization.github.io/folium/_images/folium_logo.jpg" />
 
+<img align="left" alt="Flask" width="26px" src="https://miro.medium.com/max/700/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />
+
+<img align="left" alt="Streamlit" width="26px" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" />
+
 <img align="left" alt="PostgreeSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/max/300/1*fY5KPXK0C6csHKhnXkQQ8g.png" />
@@ -52,10 +56,10 @@ src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
 
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
 
-<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-
+<!--<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
+-->
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 
 <br/>
