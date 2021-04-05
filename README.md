@@ -3,6 +3,7 @@
 </p>
 
 [<img align="left" alt="Nicksson_Arrais | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/nickssonarrais/) [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/nickssonarrais/)
+</br>
 
 ##  Tenho interesse em ajudar as pessoas a se tornarem Cientista de dados e quero desenvolver mais projetos que impactam negócios e a sociedade.
 - 👨‍🏫Eu sou Professor na Unichristus em Fortaleza
