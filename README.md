@@ -10,6 +10,8 @@
 - 👨‍💻 Eu sou fundador do [Synapse Data Science](https://linktr.ee/synapseds)
 - 👨‍💼 Eu sou instrutor de Data Science no [Minerando Dados](https://youtu.be/dnsdPrhWWec)  
 - 📊 Eu colaboro com alguns projetos no Laboratório de Pesquisa [Insight Lab](https://insightlab.ufc.br/) 
+- 🧠 Em aprendizado e aprimoramento constante de minhas habilidades
+- 🐧 Usuário Linux
 
 <br/>
 
@@ -28,13 +30,13 @@ src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
 
 <img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pytorch.svg" />
 
-
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
-
+<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
 
 <img align="left" alt="Dask" width="26px" src="https://docs.dask.org/en/latest/_images/dask_icon.svg" />
 
 <img align="left" alt="Spark" width="26px" src="https://miro.medium.com/max/580/1*I7bOyAqdM489ct9eDtf89A.png" />
+
+<img align="left" alt="Plotly" width="26px" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" />
 
 
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
@@ -46,6 +48,10 @@ src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
 <img align="left" alt="Git" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+
+## Artigos Científicos 📝
+- [Using Deep Learning for trajectory Classification](https://www.scitepress.org/Papers/2021/102279/102279.pdf) 
+- 
 <br/>
 <br/>
 
