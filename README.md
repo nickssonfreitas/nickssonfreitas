@@ -23,7 +23,7 @@
 
 <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 
-<img align="left" alt="TensorFlow" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/v236200e9f3bdf34d077efc081c4ecb460c88128ff369ccbfc69028c3ea4bf423/tensorflow/images/lockup.svg" />
+<img align="left" alt="TensorFlow" width="26px" src="http://www.lapix.ufsc.br/wp-content/uploads/2018/04/q8sc1KuZ_400x400.jpg" />
 
 <img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pytorch.svg" />
 
