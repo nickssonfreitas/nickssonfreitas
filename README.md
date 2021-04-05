@@ -15,7 +15,7 @@
 
 
 <br/>
-### Linguagens e Ferramentas:
+## Linguagens e Ferramentas:
 <br/>
 
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
@@ -48,7 +48,7 @@ src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 
 <br/>
-### Artigos Científicos 📝:
+## Artigos Científicos 📝:
 - [Using Deep Learning for trajectory Classification](https://www.scitepress.org/Papers/2021/102279/102279.pdf) 
 - 
 <br/>
