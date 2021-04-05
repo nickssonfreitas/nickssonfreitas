@@ -21,7 +21,7 @@
 
 [<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
 
-<img align="left" alt="TensorFlow" width="26px" src="https://keras.io/img/logo.png" />
+<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 
 <img align="left" alt="TensorFlow" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/v236200e9f3bdf34d077efc081c4ecb460c88128ff369ccbfc69028c3ea4bf423/tensorflow/images/lockup.svg" />
 
