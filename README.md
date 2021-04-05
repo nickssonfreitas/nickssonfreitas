@@ -6,7 +6,7 @@
 </br>
 
 ##  Quero desenvolver mais projetos que impactam o mundo dos negócios e a sociedade. Tenho também interesse em formar Cientista de Dados 
-- 👨‍🏫 Eu sou Professor na Unichristus em Fortaleza
+- 👨‍🏫 Eu sou Professor na [Unichristus](https://unichristus.edu.br/) em Fortaleza
 - 👨‍💻 Eu sou fundador do [Synapse Data Science](https://linktr.ee/synapseds)
 - 👨‍💼 Eu sou instrutor de Data Science no [Minerando Dados](https://youtu.be/dnsdPrhWWec)  
 - 📊 Eu colaboro com alguns projetos no Laboratório de Pesquisa [Insight Lab](https://insightlab.ufc.br/) 
