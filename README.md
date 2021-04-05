@@ -24,7 +24,7 @@
 <img align="left" alt="Java" width="26px" 
 src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
 
-<img align="left" alt="Scikit-learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />(
+<img align="left" alt="Scikit-learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
 <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 
