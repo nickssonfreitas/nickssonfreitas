@@ -47,6 +47,7 @@ src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 
 <br/>
+
 ## Artigos Científicos 📝:
 - [Using Deep Learning for trajectory Classification](https://www.scitepress.org/Papers/2021/102279/102279.pdf) 
 - 
