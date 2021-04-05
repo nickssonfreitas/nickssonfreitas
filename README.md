@@ -67,10 +67,10 @@ src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
 
 ## Artigos Científicos 📝:
 - [Crime Monitor: Monitoring Criminals from Trajectory Data](https://www.scitepress.org.pdf) 
-- [Using Deep Learning for trajectory Classification in imbalanced dataset ](https://www.scitepress.org.pdf) 
+- [Using Deep Learning for trajectory Classification in imbalanced dataset](https://www.scitepress.org.pdf) 
 - [Using Deep Learning for trajectory Classification](https://www.scitepress.org/Papers/2021/102279/102279.pdf) 
 - [Livro: Abordagem de Mineração de Dados para Previsão da Velocidade do Vento](https://amzn.to/3dEjJB6)
-- [Wind Speed Forecating: A Review](ind Speed Forecasting: A Review)
+- [Wind Speed Forecating: A Review](https://d1wqtxts1xzle7.cloudfront.net/56913756/B0801010409.pdf?1530591083=&response-content-disposition=inline%3B+filename%3DWind_Speed_Forecasting_A_Review.pdf&Expires=1617634647&Signature=DhGrKxOgliDSN2lY4i7RztO~ccpcYqKxP~1MMIqAkTjcdgeudIVxSRSaIjykyfS6~nvfeUFffR3DbpBMONTBrdOWQFhc4My~Q765IsSwVzBv5f78SpVYvecB~ZGoT9~VphKG1Y0O84kTQOqZGtSqdKmVH1IDBDxx-2MbBV9IQgqRNVzXgemItwj9DVAXNg-7M-kTkzORTKcYWETJcJCgemF2pWBOezx9BjUMtFF036v7Fc32p6rqtfsY-krTrCAzH-u9aDT8Oi4Pb~ktabyu3uczwH4iw7H2MvLcEEaIOmqjxYnIfOyHUQ19gw4llC5pjkdZtiOsMXpkF6clwpY26Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 - [Multiagent System for Image Mining](https://www.intechopen.com/books/multi-agent-systems/multiagent-system-for-image-mining)
 - [AgentGeo: Multi-Agent System of Satellite Images Mining](https://ieeexplore.ieee.org/document/7459619)
 - [Uma análise comparativa de dados de mapas de NDVI gerados através de imagens de METEOSAT-10 e LANDSAT-8](https://proceedings.science/sbsr/papers/uma-analise-comparativa-de-dados-de-mapas-de-ndvi-gerados-atraves-de-imagens-de-meteosat-10-e-landsat-8)
