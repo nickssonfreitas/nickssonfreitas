@@ -82,8 +82,6 @@ src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
 <br/>
 
 
-
-
 <img align="left" alt="Atualizações Github" src="https://github-readme-stats.vercel.app/api?username=nickssonarrais&show_icons=true&hide_border=true" />
 
 [<img align="left" alt="Nicksson_Arrais | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/nickssonarrais/) [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/nickssonarrais/)
