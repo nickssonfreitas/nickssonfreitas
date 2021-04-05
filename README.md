@@ -38,12 +38,17 @@ src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
 
 <img align="left" alt="Matplotlib" width="26px" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" />
 
+<img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
+
 <img align="left" alt="Plotly" width="26px" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" />
 
+<img align="left" alt="Folium" width="26px" src="https://python-visualization.github.io/folium/_images/folium_logo.jpg" />
 
 <img align="left" alt="PostgreeSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/max/300/1*fY5KPXK0C6csHKhnXkQQ8g.png" />
+
+<img align="left" alt="Scrapy" width="26px" src="https://clasense4.files.wordpress.com/2015/11/scrapy-big-logo.png" />
 
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
 
