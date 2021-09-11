@@ -10,7 +10,6 @@
 - 👨‍💻 Sou fundador do canal de Data Science [Synapse Data Science](https://linktr.ee/synapseds)
 - 👨‍💼 Sou instrutor de Data Science no [Minerando Dados](https://youtu.be/dnsdPrhWWec)  
 - 📊 Colaboro com projetos de pesquisas no Laboratório de Pesquisa [Insight Lab](https://insightlab.ufc.br/) 
-- 🐧 Sou usuário Linux
 - 🧠 Venho apreendendo e aprimorando constantemente minhas habilidades
 <br/>
 
