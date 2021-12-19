@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/724/1*UsYsbsZd-CE3CTkqrwRIwg.jpeg" >
 </p>
 
-[<img align="left" alt="Nicksson_Arrais | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/nickssonarrais/) [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/nickssonarrais/)
+[<img align="left" alt="Nicksson_Arrais | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/nickssonfreitas/) [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/nickssonfreitas/)
 </br>
 
 ###  Tenho interesse em desenvolver projetos que impactam o mundo dos negócios e a sociedade.
