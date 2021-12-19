@@ -6,10 +6,14 @@
 </br>
 
 ###  Tenho interesse em desenvolver projetos que impactam o mundo dos negócios e a sociedade.
+- 🧭 Eu Trabalha na área de Ciência de Dados desde 2014 atuando tanto em projetos de pesquisa na academia como em projetos de desenvolvimento nas empresas. 
+- 👩🏻‍💻 Sou Cientista de Dados SR no Samsung Institute for Development Informatics (SIDI)
 - 👨‍🏫 Sou Professor na [Unichristus](https://unichristus.edu.br/) em Fortaleza
-- 👨‍💻 Sou fundador do canal de Data Science [Synapse Data Science](https://linktr.ee/synapseds)
-- 👨‍💼 Sou instrutor de Data Science no [Minerando Dados](https://youtu.be/dnsdPrhWWec)  
+- 📝 Doutorando, Mestre e Graduado em Ciência da Computação
+- 👨‍💻 Sou co-fundador do canal de Data Science [Synapse Data Science](https://linktr.ee/synapseds)
+- 👨‍💼 Sou instrutor de Data Science no [Stack Tecnnologias](https://youtu.be/dnsdPrhWWec)  
 - 📊 Colaboro com projetos de pesquisas no Laboratório de Pesquisa [Insight Lab](https://insightlab.ufc.br/) 
+- 📚 Escritor de livros, artigos em periódicos e conferências nacionais e internacionais nas seguintes áreas: Ciência de Dados, Inteligência Artificial, Aprendizado de Máquina, Bancos de Dados, Sistemas Multiagentes, Séries Temporais, Trajetórias, Sensoriamento Remoto, Processamento Digital de Imagens, Geoprocessamento e Meteorologia.
 - 🧠 Venho apreendendo e aprimorando constantemente minhas habilidades
 <br/>
 
