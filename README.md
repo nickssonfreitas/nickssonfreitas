@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nickssonarrais/datascience/main/banner.gif" >
+  <img src="https://miro.medium.com/max/724/1*UsYsbsZd-CE3CTkqrwRIwg.jpeg" >
 </p>
 
 [<img align="left" alt="Nicksson_Arrais | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/nickssonarrais/) [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/nickssonarrais/)
 </br>
 
 ###  Tenho interesse em desenvolver projetos que impactam o mundo dos negócios e a sociedade.
-- 🧭 Eu Trabalha na área de Ciência de Dados desde 2014 atuando tanto em projetos de pesquisa na academia como em projetos de desenvolvimento nas empresas. 
+- 🧭 Eu trabalho na área de Ciência de Dados desde 2014 atuando tanto em projetos de pesquisa na academia como em projetos de desenvolvimento nas empresas. 
 - 👩🏻‍💻 Sou Cientista de Dados SR no Samsung Institute for Development Informatics (SIDI)
 - 👨‍🏫 Sou Professor na [Unichristus](https://unichristus.edu.br/) em Fortaleza
 - 📝 Doutorando, Mestre e Graduado em Ciência da Computação
