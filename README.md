@@ -14,7 +14,7 @@
 - 👨‍💼 Sou instrutor de Data Science no [Stack Tecnnologias](https://youtu.be/dnsdPrhWWec)  
 - 📊 Colaboro com projetos de pesquisas no Laboratório de Pesquisa [Insight Lab](https://insightlab.ufc.br/) 
 - 📚 Escritor de livros, artigos em periódicos e conferências nacionais e internacionais nas seguintes áreas: Ciência de Dados, Inteligência Artificial, Aprendizado de Máquina, Bancos de Dados, Sistemas Multiagentes, Séries Temporais, Trajetórias, Sensoriamento Remoto, Processamento Digital de Imagens, Geoprocessamento e Meteorologia.
-- 🧠 Venho apreendendo e aprimorando constantemente minhas habilidades
+- 🧠 Venho aprimorando constantemente minhas habilidades
 <br/>
 
 ### Linguagens e Ferramentas:
