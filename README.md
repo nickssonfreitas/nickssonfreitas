@@ -6,7 +6,7 @@
 </br>
 
 ###  Tenho interesse em desenvolver projetos que impactam o mundo dos negócios e a sociedade.
-- 🧭 Eu trabalho na área de Ciência de Dados desde 2014 atuando tanto em projetos de pesquisa na academia como em projetos de desenvolvimento nas empresas. 
+- 🧭 Eu trabalho na área de Ciência de Dados desde 2013 atuando tanto em projetos de pesquisa na academia como em projetos de desenvolvimento nas empresas. 
 - 👩🏻‍💻 Sou Cientista de Dados SR no Samsung Institute for Development Informatics (SIDI)
 - 👨‍🏫 Sou Professor na [Unichristus](https://unichristus.edu.br/) em Fortaleza
 - 📝 Doutorando, Mestre e Graduado em Ciência da Computação
